@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\.dc84df926837d2d622ebb6c8d63294a0d1405188-audit.json",
+    "files": [
+        {
+            "date": 1686677258246,
+            "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-13-06-23-error.log",
+            "hash": "90bd6f67cbe40443256180ec7c87ca3289e91e8a4f957daef928b8c98e5d8224"
+        }
+    ],
+    "hashType": "sha256"
+}
