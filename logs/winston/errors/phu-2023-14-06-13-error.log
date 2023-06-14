@@ -1,0 +1,10 @@
+Wed Jun 14 2023 13:4:53 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 13:5:2 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 13:8:35 } [Error] error: Buyer validation failed: phone: Path `phone` is required.
+Wed Jun 14 2023 13:9:56 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 13:9:58 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 13:10:7 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 13:10:19 } [Error] error: E11000 duplicate key error collection: Pashu-Bazaar.buyers index: email_1 dup key: { email: "emtiazhossainrzs@gmail.com" }
+Wed Jun 14 2023 13:55:20 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 13:55:48 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 13:56:24 } [Error] error: listen EADDRINUSE: address already in use :::5000

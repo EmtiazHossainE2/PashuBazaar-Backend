@@ -1,0 +1,22 @@
+Wed Jun 14 2023 15:3:43 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:4:11 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:6:0 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:6:18 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:6:24 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:6:37 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:7:0 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:11:21 } [Error] error: updatedBuyer.address.map is not a function
+Wed Jun 14 2023 15:15:1 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:15:11 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:15:20 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:18:9 } [Error] error: Buyer not found!
+Wed Jun 14 2023 15:20:5 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:20:33 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:20:41 } [Error] error: Buyer validation failed: email: Path `email` is required.
+Wed Jun 14 2023 15:25:21 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:25:35 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:25:58 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:26:25 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:26:35 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:26:51 } [Error] error: listen EADDRINUSE: address already in use :::5000
+Wed Jun 14 2023 15:37:50 } [Error] error: Buyer not found!
