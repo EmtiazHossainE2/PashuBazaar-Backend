@@ -1,35 +1,35 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\.dc84df926837d2d622ebb6c8d63294a0d1405188-audit.json",
+  "files": [
+    {
+      "date": 1686677258246,
+      "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-13-06-23-error.log",
+      "hash": "90bd6f67cbe40443256180ec7c87ca3289e91e8a4f957daef928b8c98e5d8224"
     },
-    "auditLog": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\.dc84df926837d2d622ebb6c8d63294a0d1405188-audit.json",
-    "files": [
-        {
-            "date": 1686677258246,
-            "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-13-06-23-error.log",
-            "hash": "90bd6f67cbe40443256180ec7c87ca3289e91e8a4f957daef928b8c98e5d8224"
-        },
-        {
-            "date": 1686722101842,
-            "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-14-06-11-error.log",
-            "hash": "673a0ed47f08281f950698de77a02d108ecc53589468bc66715f334236cb42cf"
-        },
-        {
-            "date": 1686726292250,
-            "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-14-06-13-error.log",
-            "hash": "debdc660a962086d8bb1a2fa5f76329fbedc14831e7d0c687de91800ba61fd40"
-        },
-        {
-            "date": 1686729608807,
-            "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-14-06-14-error.log",
-            "hash": "d1e292587e945fc4319b23ed2b1b3cb3edf98d236f1f3f15b679b3dfb00b8f0e"
-        },
-        {
-            "date": 1686733324194,
-            "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-14-06-15-error.log",
-            "hash": "a0040e87034b6d45eb6c787c859c75c6e968c9efd91e1ea7b73eff6a3dff009f"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686722101842,
+      "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-14-06-11-error.log",
+      "hash": "673a0ed47f08281f950698de77a02d108ecc53589468bc66715f334236cb42cf"
+    },
+    {
+      "date": 1686726292250,
+      "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-14-06-13-error.log",
+      "hash": "debdc660a962086d8bb1a2fa5f76329fbedc14831e7d0c687de91800ba61fd40"
+    },
+    {
+      "date": 1686729608807,
+      "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-14-06-14-error.log",
+      "hash": "d1e292587e945fc4319b23ed2b1b3cb3edf98d236f1f3f15b679b3dfb00b8f0e"
+    },
+    {
+      "date": 1686733324194,
+      "name": "H:\\PH Level 2\\Code\\PashuBazaar\\pashubazaar backend\\logs\\winston\\errors\\phu-2023-14-06-15-error.log",
+      "hash": "a0040e87034b6d45eb6c787c859c75c6e968c9efd91e1ea7b73eff6a3dff009f"
+    }
+  ],
+  "hashType": "sha256"
 }

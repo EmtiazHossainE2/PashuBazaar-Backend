@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "H:\\PH Level 2\\Code\\Backend Boilerplate\\logs\\winston\\successes\\.0fa94a53d3050809ee5dbecdcfdbe03b16b83799-audit.json",
-    "files": [
-        {
-            "date": 1686665181730,
-            "name": "H:\\PH Level 2\\Code\\Backend Boilerplate\\logs\\winston\\successes\\phu-2023-13-06-20-success.log",
-            "hash": "68a4385c3fe73380f0d2b9e2bc6c5a294f4b8e5eeaa3d327b4917bedd85ed300"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "H:\\PH Level 2\\Code\\Backend Boilerplate\\logs\\winston\\successes\\.0fa94a53d3050809ee5dbecdcfdbe03b16b83799-audit.json",
+  "files": [
+    {
+      "date": 1686665181730,
+      "name": "H:\\PH Level 2\\Code\\Backend Boilerplate\\logs\\winston\\successes\\phu-2023-13-06-20-success.log",
+      "hash": "68a4385c3fe73380f0d2b9e2bc6c5a294f4b8e5eeaa3d327b4917bedd85ed300"
+    }
+  ],
+  "hashType": "sha256"
 }

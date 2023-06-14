@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "H:\\PH Level 2\\Code\\Backend Boilerplate\\logs\\winston\\errors\\.1ed70f2f91252cae3a5378b86d4c70b4ffc3e89a-audit.json",
-    "files": [
-        {
-            "date": 1686665181735,
-            "name": "H:\\PH Level 2\\Code\\Backend Boilerplate\\logs\\winston\\errors\\phu-2023-13-06-20-error.log",
-            "hash": "5bbff1a3d98be19af7fbdacb461de7c4d34215300ed24e3c510aafaeaeac2257"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "H:\\PH Level 2\\Code\\Backend Boilerplate\\logs\\winston\\errors\\.1ed70f2f91252cae3a5378b86d4c70b4ffc3e89a-audit.json",
+  "files": [
+    {
+      "date": 1686665181735,
+      "name": "H:\\PH Level 2\\Code\\Backend Boilerplate\\logs\\winston\\errors\\phu-2023-13-06-20-error.log",
+      "hash": "5bbff1a3d98be19af7fbdacb461de7c4d34215300ed24e3c510aafaeaeac2257"
+    }
+  ],
+  "hashType": "sha256"
 }

@@ -4,12 +4,14 @@
     "email": "",
     "phone": "",
     "photoURL": "",
-    "address": [{
-      "houseNo":"",
-      "roadNo":"",
-      "location":"",
-      "district":"",
-      "emergencyContactNo":""
-    }]
+    "address": [
+      {
+        "houseNo": "",
+        "roadNo": "",
+        "location": "",
+        "district": "",
+        "emergencyContactNo": ""
+      }
+    ]
   }
 ]
